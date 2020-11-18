@@ -12,11 +12,11 @@ The Images is based on Centos7 with some troubleshooting tools installed;
 
 to use:
 
-`docker pull okansahiner/kube-diag`
+`docker pull kube-diag`
 
 or
 
-`docker run -it -p 8080:8080 okansahiner/kube-diag:latest`
+`docker run -it -p 8080:8080 kube-diag:latest`
 
 
 ```
